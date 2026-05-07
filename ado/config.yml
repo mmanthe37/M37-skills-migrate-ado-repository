@@ -5,7 +5,10 @@ ado_repository_name: "MigrateFromADORepo"
 
 # Update these values before running the bootstrap script
 
-ado_url: ""  # e.g "https://dev.azure.com/your-org"
+ado_url: "https://dev.azure.com/mmanthe37"  # e.g "https://dev.azure.com/your-org"
+
+github_org: "mmanthe37"
+target_github_repo_name: "migrated-repo"
 
 # GitHub migration configuration
 github_org: "GITHUB_ORG_NAME_PLACEHOLDER"
